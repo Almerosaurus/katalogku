@@ -11,7 +11,7 @@ Content-Type: application/json
 
 {
   "identity": "admin@katalogku.id",
-  "password": "GantiPasswordKuat123"
+  "password": "12345678"
 }
 
 ### 1. Kemeja Batik Parang
